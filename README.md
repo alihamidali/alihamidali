@@ -5,7 +5,7 @@
 [![My Notes](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://alihamidali.github.io/)](https://alihamidali.github.io)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/alihamidali)](https://ko-fi.com/alihamidali)
 
-I have over four years of experience developing applications with Vue.js and Angular as the front end and Laravel, Symfony and Node.js as the back end. He also develops mobile applications with the help of Ionic/Cordova and Vue.js (PWA). He communicates exceptionally well and loves to bring high quality to his clients. Besides core development skills, Hamid is super skilled in system administration, AWS and is experienced in Docker, Ansible, Laravel Forge, Azure, AWS and many more. I'm a **Life Long Learner** and like to learn something new everyday. I'm currently working as a **Full Stack Developer**.
+I'm a **Life Long Learner** and like to learn something new everyday. I'm currently working as a **Full Stack Developer**.
 
 - 🌱 On the way of learning *Advanced Machine Learning* & *Data Science* (also enjoying _Web Dev_).
 - 🔥 Most proud of -- [PakWheels](https://www.pakwheels.com/), a Pakistani site for cars Enthusiasts.
