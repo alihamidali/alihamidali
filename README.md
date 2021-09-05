@@ -65,4 +65,6 @@ Technologies I've been learning and using so far :
 
 
 More about me 👉 [https://alihamidali.github.io/](https://alihamidali.github.io/).
- 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=alihamidali/alihamidali)
+
