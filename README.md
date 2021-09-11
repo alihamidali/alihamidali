@@ -8,7 +8,7 @@
 I'm a **Life Long Learner** and like to learn something new everyday. I'm currently working as a **Full Stack Developer**.
 
 - 🌱 On the way of learning *Advanced Machine Learning* & *Data Science* (also enjoying _Web Dev_).
-- 🔥 Most proud of -- [PakWheels](https://www.pakwheels.com/), a Pakistani site for cars Enthusiasts.
+- 🔥 Most proud of -- [Self Driving Car Project](https://www.youtube.com/watch?v=-Tm97CV2Cxw), an obstacle detection self driving car.
 - 📚 My notes of learning at [alihamidali.github.io](https://alihamidali.github.io).
 - 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
 - 💌 Contact me at [alihamidali2@gmail.com](mailto:alihamidali2@gmail.com).
