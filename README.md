@@ -17,7 +17,6 @@ Technologies I've been learning and using so far :
 
 - Programming languages : <br />
   [![PHP](http://img.shields.io/badge/-PHP-eee?style=for-the-badge&logo=php&logoColor=4951aa)](https://alihamidali.github.io)
-  [![Ruby](http://img.shields.io/badge/-Ruby-eee?style=for-the-badge&logo=ruby&logoColor=CC342D)](https://alihamidali.github.io/#web_development)
   [![Python](http://img.shields.io/badge/-Python-eee?style=for-the-badge&logo=python&logoColor#F7BD2F)](https://alihamidali.github.io/#python)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=for-the-badge&logo=javascript&logoColor=DD9C25)](https://alihamidali.github.io/#web_development)
 
@@ -29,25 +28,21 @@ Technologies I've been learning and using so far :
   [![Sass](https://img.shields.io/badge/-SASS-eee?style=for-the-badge&logo=sass&logoColor=CC6699)](https://alihamidali.github.io/#web_development)
   [![React](https://img.shields.io/badge/-React-eee?style=for-the-badge&logo=react&logoColor=0088cc)](https://alihamidali.github.io/tags#react)
   [![Angular](https://img.shields.io/badge/-Angular-EEE?style=for-the-badge&logo=angular&logoColor=DD0031)](https://alihamidali.github.io/tags#react)
-  [![Gatsby](https://img.shields.io/badge/-Gabtsy-eee?style=for-the-badge&logo=Gatsby&logoColor=663399)](https://alihamidali.github.io/tags#gatsbyjs)
   [![Jekyll](http://img.shields.io/badge/-Jekyll-eee?style=for-the-badge&logo=jekyll&logoColor=a83232)](https://alihamidali.github.io/jekyll-tips)
   [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=for-the-badge&logo=bootstrap&logoColor=563D7C)](https://alihamidali.github.io/#web_development)
-  [![11ty](http://img.shields.io/badge/-11ty-eee?style=for-the-badge&logo=eleventy&logoColor=000)](https://alihamidali.github.io/11ty-nunjucks)
-  [![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=for-the-badge&logo=wordpress&logoColor=21759B)](https://alihamidali.github.io/tags#wordpress)
 
 - Backend : <br />
-  [![Docker](https://img.shields.io/badge/-Docker-eee?style=for-the-badge&logo=docker&logoColor=2496ed)](https://alihamidali.github.io/tags#docker)
-  [![Laravel](https://img.shields.io/badge/-laravel-eee?style=for-the-badge&logo=laravel&logoColor=red)](https://alihamidali.github.io/tags#docker)
-  [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://alihamidali.github.io/)
-  [![Insomnia](http://img.shields.io/badge/-Insomnia-eee?style=for-the-badge&logo=insomnia&logoColor=5849BE)](https://alihamidali.github.io/)
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=for-the-badge&logo=postgresql&logoColor=0273B7)](https://alihamidali.github.io/)
+  [![Laravel](https://img.shields.io/badge/-laravel-eee?style=for-the-badge&logo=laravel&logoColor=red)](https://alihamidali.github.io/tags#laravel)
+  [![Symfony](https://img.shields.io/badge/-symfony-eee?style=for-the-badge&logo=symfony&logoColor=white)](https://alihamidali.github.io/tags#symfony)
   [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)](https://alihamidali.github.io/nodejs-npm)
+  [![GraphQL](https://img.shields.io/badge/-GraphQL-eee?style=for-the-badge&logo=graphql&logoColor=E10098)](https://alihamidali.github.io/)
+  [![Flask](http://img.shields.io/badge/-Flask-eee?style=for-the-badge&logo=flask&logoColor=000)](https://alihamidali.github.io/)
+
+- Database : <br />
+  [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://alihamidali.github.io/)
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=for-the-badge&logo=postgresql&logoColor=0273B7)](https://alihamidali.github.io/)
   [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://alihamidali.github.io/)
   [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://alihamidali.github.io/)
-  [![GraphQL](https://img.shields.io/badge/-GraphQL-eee?style=for-the-badge&logo=graphql&logoColor=E10098)](https://alihamidali.github.io/)
-  [![gRPC](http://img.shields.io/badge/-gRPC-eee?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA6lBMVEUAAAAtprAtprAtprAtprAtprAtprAtprAtprAtprAsprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprD////FjnxvAAAATHRSTlMAAA6A3eemKAIDAf338bkTX2Ub3O5YN8dO4isq78sM8mEf2OAhyQ0YL83aIjsQDwbO/tfbxsHT0VUFi9QwahI88JBpLIeKaBxXNk8nLo9GMQAAAJxJREFUeNpFzwO6w0AUQOE4D7XN2K7tdva/nt74fPzHg2F4GEFSNMPiOOjnF/8j/wtFVCqHrFTxWr3RbLVRB8hS3V5/MBzh5HgCnM7mXH/AC7gohYsJWVG1Iq/rumECDct2XORJfrBYAlfrTQDc+g20A+LmXj8ceV04oTMw7BIedQ0ZBoSLbuie8EE1nq+2/U6YPzIs/EKdZj44/gVTWBMHg1d2DQAAAABJRU5ErkJggg==&logoColor=4479A1)](https://alihamidali.github.io/)
-  [![Flask](http://img.shields.io/badge/-Flask-eee?style=for-the-badge&logo=flask&logoColor=000)](https://alihamidali.github.io/)
-  [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=for-the-badge&logo=heroku&logoColor=430098)](https://alihamidali.github.io/)
 
 <!-- - Machine Learning / Deep Learning frameworks : <br />
   [![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](https://alihamidali.github.io/tags#tensorflow)
@@ -57,6 +52,8 @@ Technologies I've been learning and using so far :
 
 - OS & IDE & Tools : <br />
   [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://alihamidali.github.io/visual-studio-code)
+  [![Insomnia](http://img.shields.io/badge/-Insomnia-eee?style=for-the-badge&logo=insomnia&logoColor=5849BE)](https://alihamidali.github.io/)
+  [![Postman](http://img.shields.io/badge/-Postman-eee?style=for-the-badge&logo=postman&logoColor=5849BE)](https://alihamidali.github.io/)
   [![PhpStorm](http://img.shields.io/badge/-PhpStorm-eee?style=for-the-badge&logo=phpstorm&logoColor=black)](https://alihamidali.github.io/visual-studio-code)
   [![Linux](http://img.shields.io/badge/-Linux-eee?style=for-the-badge&logo=linux&logoColor=D67A10)](https://alihamidali.github.io/tags#linux)
   [![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=for-the-badge&logo=gnu-bash&logoColor=663399)](https://alihamidali.github.io/tags#bash)
