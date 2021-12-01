@@ -44,7 +44,6 @@ Technologies I've been learning and using so far :
   [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://alihamidali.github.io/)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=for-the-badge&logo=postgresql&logoColor=0273B7)](https://alihamidali.github.io/)
   [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://alihamidali.github.io/)
-  [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://alihamidali.github.io/)
 
 - CI / CD Tools : <br />
 
@@ -54,7 +53,13 @@ Technologies I've been learning and using so far :
   [![Circleci](https://img.shields.io/badge/-circleci-eee?style=for-the-badge&logo=circleci&logoColor=1B1B1B)](https://alihamidali.github.io/tags#docker)
   [![Travis](https://img.shields.io/badge/-travis-eee?style=for-the-badge&logo=travis&logoColor=1B1B1B)](https://alihamidali.github.io/tags#docker)
   [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=for-the-badge&logo=heroku&logoColor=430098)](https://alihamidali.github.io/)
-  [![Ansible](https://img.shields.io/badge/-Ansible-eee?style=for-the-badge&logo=ansible&logoColor=430098)](https://alihamidali.github.io/)
+  [![Ansible](https://img.shields.io/badge/-Ansible-eee?style=for-the-badge&logo=ansible&logoColor=000000)](https://alihamidali.github.io/)
+
+- Authorization Servers : <br />
+
+  [![Keyclock](https://img.shields.io/badge/-Keycloak-eee?style=for-the-badge&logo=keycloak&logoColor=2496ed)](https://alihamidali.github.io/tags#docker)
+  [![AWS Cognito](https://img.shields.io/badge/-AWS-eee?style=for-the-badge&logo=aws&logoColor=0065E8)](https://alihamidali.github.io/tags#docker)
+  [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://alihamidali.github.io/)
 
 <!-- - Machine Learning / Deep Learning frameworks : <br />
   [![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](https://alihamidali.github.io/tags#tensorflow)
