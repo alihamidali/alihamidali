@@ -18,12 +18,12 @@ I'm a **Life Long Learner** and like to learn something new everyday. I'm curren
 Technologies I've been learning and using so far :
 
 - Amazon Web Services : <br />
-  [![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://alihamidali.github.io)
-  [![CFN](https://img.shields.io/badge/CFN-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://alihamidali.github.io)
-  [![LAMBDA](https://img.shields.io/badge/LAMBDA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://alihamidali.github.io)
-  [![ROUTE53](https://img.shields.io/badge/ROUTE53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://alihamidali.github.io)
-  [![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://alihamidali.github.io)
-  [![API GATEWAY](https://img.shields.io/badge/API_GATEWAY-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://alihamidali.github.io)
+  [![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://alihamidali.github.io)
+  [![CFN](https://img.shields.io/badge/CFN-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://alihamidali.github.io)
+  [![LAMBDA](https://img.shields.io/badge/LAMBDA-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://alihamidali.github.io)
+  [![ROUTE53](https://img.shields.io/badge/ROUTE53-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://alihamidali.github.io)
+  [![ECS](https://img.shields.io/badge/ECS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://alihamidali.github.io)
+  [![API GATEWAY](https://img.shields.io/badge/API_GATEWAY-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://alihamidali.github.io)
 
 - Programming languages : <br />
   [![PHP](http://img.shields.io/badge/-PHP-eee?style=for-the-badge&logo=php&logoColor=4951aa)](https://alihamidali.github.io)
