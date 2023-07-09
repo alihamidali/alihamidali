@@ -17,6 +17,9 @@ I'm a **Life Long Learner** and like to learn something new everyday. I'm curren
 
 Technologies I've been learning and using so far :
 
+- Amazon Web Services : <br />
+  [![EC2]([http://img.shields.io/badge/-PHP-eee?style=for-the-badge&logo=php&logoColor=4951aa](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white))](https://alihamidali.github.io)
+
 - Programming languages : <br />
   [![PHP](http://img.shields.io/badge/-PHP-eee?style=for-the-badge&logo=php&logoColor=4951aa)](https://alihamidali.github.io)
   [![Python](http://img.shields.io/badge/-Python-eee?style=for-the-badge&logo=python&logoColor#F7BD2F)](https://alihamidali.github.io/#python)
